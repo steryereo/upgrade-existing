@@ -1,6 +1,6 @@
 {
   "name": "@steryereo/upgrade-existing",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Upgrade only npm packages that are already top-level dependencies",
   "main": "index.js",
   "bin": "index.js",
