@@ -1,0 +1,9 @@
+{
+  "name": "upgrade-existing",
+  "version": "0.1.0",
+  "description": "Upgrade only packages that are already installed",
+  "main": "index.js",
+  "bin": "./index.js",
+  "license": "MIT",
+  "private": false
+}
