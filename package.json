@@ -1,8 +1,9 @@
 {
   "name": "@steryereo/upgrade-existing",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Upgrade only npm packages that are already top-level dependencies",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
