@@ -1,9 +1,19 @@
 {
-  "name": "upgrade-existing",
-  "version": "0.1.0",
-  "description": "Upgrade only packages that are already installed",
+  "name": "@steryereo/upgrade-existing",
+  "version": "0.1.1",
+  "description": "Upgrade only npm packages that are already top-level dependencies",
   "main": "index.js",
-  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steryereo/upgrade-existing.git"
+  },
+  "author": "\"Nick Echols <stere.ereo@gmail.com> (https://github.com/steryereo)",
   "license": "MIT",
-  "private": false
+  "bugs": {
+    "url": "https://github.com/steryereo/upgrade-existing/issues"
+  },
+  "homepage": "https://github.com/steryereo/upgrade-existing#readme"
 }
